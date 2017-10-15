@@ -1,0 +1,17 @@
+
+.vs/LightLine/v15/.suo
+Library
+Temp
+*.csproj
+.sln
+.userprefs
+Obj
+UnityPackageManager
+
+.vscode/settings.json
+
+.vs/LightLine/v15/Browse.VC.db
+
+LightLine.sln
+
+LightLine.userprefs
